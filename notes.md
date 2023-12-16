@@ -274,7 +274,8 @@ function App() {
 ```
 - now in app you can use the onClick prop
 
-
+## Callback functions
+- you can pass a callback function to a component this is how children can communicate with parents
 
 
 
