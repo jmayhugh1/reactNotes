@@ -327,3 +327,10 @@ export default MyComponent;
 - prevents unexpected regressions
 - allowd focus on current task
 - allows modular development
+
+# summary
+- state is a plain JavaScript object that is used to record and react to user events
+- props are read only and cannot be modified from inside the component
+- you can pass data between components using props and callback functions
+- you can connect react to external servers using axios
+- Components can be tested using Mocha, Chai, Sinon, but prefered approaches are by using Jest and React testing library.
